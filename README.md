@@ -26,5 +26,5 @@
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/willian-robert-scabora-85a94217b)](www.linkedin.com/in/willian-robert-scabora-85a94217b)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WillianWRS)
+[![Linkedin](https://img.shields.io/badge/-Willian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/willian-robert-scabora-85a94217b)](www.linkedin.com/in/willian-robert-scabora-85a94217b)
+[![GitHub](https://img.shields.io/github/followers/WillianWRS?label=follow&style=social)](https://github.com/WillianWRS)
